@@ -1,6 +1,6 @@
   export const populateAgeData = [
     {
-      titlequestion: "Vilket ålderspann tillhör du?", case: "agecase",
+      titlequestion: "Vilket åldersspann tillhör du?", case: "agecase",
       id: "childsmall", 
       iconText: "0 - 4 år", 
       caseinfo: "Barn mellan 0-4 år rekommenderas att ha lika långa skidor som barnets längd. Detta gäller för både klassisk och fristil.", 
@@ -40,8 +40,8 @@
       recommendmessage: "Välj rekommenderad skidlängd(intervall eller fast värde)",
       intervalmessage: "*Du kan ändra längden inom det rekommenderade intervallet",
       intervalmessagenorec: "*Du kan ändra längden inom intervallet",
-      notrecommendedmessage: "Du har frångott våra rekommendationer. Längdintervallet som du kan välja från tar inte hänsyn till våra rekommedationer.",
-      deviatemessage: "Välj skidlängd utan rekommenadationer",
+      notrecommendedmessage: "Du har frångått våra rekommendationer. Längdintervallet som du kan välja ifrån tar inte hänsyn till våra rekommendationer.",
+      deviatemessage: "Välj skidlängd utan rekommendationer",
       btnmessdeviate: "Frångå rekommendationer",
       btnmessrecommended : "Tillbaka till rekommendationer",
       min: "Min:",
@@ -53,7 +53,7 @@
   export const populateConfirmedComp = 
   {
     confirmedstatement: "Du valde skidlängden",
-    notrecommended: "Ej enligt våra rekommendatioer",
+    notrecommended: "Ej enligt våra rekommendationer",
     recommended: "Enligt våra rekommendationer"
   }
 ;

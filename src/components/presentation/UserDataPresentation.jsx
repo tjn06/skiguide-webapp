@@ -16,11 +16,11 @@ const UserDataPresentation = ({userData}) => {
 
   const setAgeCase = (value) => { 
     if (value === 0 ) {
-      return "Ålderspann: 0-4 år"
+      return "Åldersspann: 0-4 år"
     } if (value === 1 )  {
-      return "Ålderspann: 5-8 år"
+      return "Åldersspann: 5-8 år"
     } if (value === 2 )  {
-      return "Ålderspann: + 9 år >"
+      return "Åldersspann: + 9 år >"
     }
   }
 
