@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/skiapp/static/css/main.24433347.chunk.css",
-    "main.js": "/skiapp/static/js/main.c19c8710.chunk.js",
-    "main.js.map": "/skiapp/static/js/main.c19c8710.chunk.js.map",
+    "main.js": "/skiapp/static/js/main.c92896a9.chunk.js",
+    "main.js.map": "/skiapp/static/js/main.c92896a9.chunk.js.map",
     "runtime-main.js": "/skiapp/static/js/runtime-main.f61e493d.js",
     "runtime-main.js.map": "/skiapp/static/js/runtime-main.f61e493d.js.map",
     "static/js/2.a4ff4b21.chunk.js": "/skiapp/static/js/2.a4ff4b21.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f61e493d.js",
     "static/js/2.a4ff4b21.chunk.js",
     "static/css/main.24433347.chunk.css",
-    "static/js/main.c19c8710.chunk.js"
+    "static/js/main.c92896a9.chunk.js"
   ]
 }
