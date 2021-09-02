@@ -13,7 +13,7 @@ text-align: center;
 `;
 
 const StyledLogo = styled(Logo)`
-padding-top: 8%;
+padding-top: 6%;
 padding-bottom: 1rem;
 `
 
@@ -21,10 +21,8 @@ padding-bottom: 1rem;
 function App() {
   return (
     <StyledApp>
-     
         <StyledLogo />
         <SkiGuide />
-    
     </StyledApp>
   );
 }

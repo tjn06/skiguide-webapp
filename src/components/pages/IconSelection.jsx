@@ -1,6 +1,6 @@
 import React, { useState, useEffect }from "react";
 import styled from "styled-components";
-import IconCase from '../dynamicsvg/AlterantivesIcons';
+import IconCase from '../dynamicsvg/DynamicIcons';
 
 const StyledContainer = styled.div`
   flex-direction: column;

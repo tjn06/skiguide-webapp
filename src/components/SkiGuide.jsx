@@ -98,13 +98,13 @@ const SkiGuide = () => {
 
   //Check if icons/alternatives is selected, used to disable/undisable btns prevents you from go to next step
   useEffect(() => {
-    if (userData.agecase) { 
+    if (userData.agecase !== null) { 
       setAgeIsTouched(false)
     } else {
       setAgeIsTouched(true);
     }
     
-    if (userData.stylecase) {
+    if (userData.stylecase !== null) {
       setStyleIsTouched(false);
     } else {
       setStyleIsTouched(true);

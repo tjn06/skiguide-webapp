@@ -54,6 +54,6 @@
   {
     confirmedstatement: "Du valde skidlängden",
     notrecommended: "Ej enligt våra rekommendatioer",
-    recommended: "*Du kan ändra längden inom intervallet"
+    recommended: "Enligt våra rekommendationer"
   }
 ;
