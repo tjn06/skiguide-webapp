@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/skiapp/static/css/main.24433347.chunk.css",
+    "main.js": "/skiapp/static/js/main.8230a50f.chunk.js",
+    "main.js.map": "/skiapp/static/js/main.8230a50f.chunk.js.map",
+    "runtime-main.js": "/skiapp/static/js/runtime-main.f61e493d.js",
+    "runtime-main.js.map": "/skiapp/static/js/runtime-main.f61e493d.js.map",
+    "static/js/2.a4ff4b21.chunk.js": "/skiapp/static/js/2.a4ff4b21.chunk.js",
+    "static/js/2.a4ff4b21.chunk.js.map": "/skiapp/static/js/2.a4ff4b21.chunk.js.map",
+    "static/js/3.bc822b8b.chunk.js": "/skiapp/static/js/3.bc822b8b.chunk.js",
+    "static/js/3.bc822b8b.chunk.js.map": "/skiapp/static/js/3.bc822b8b.chunk.js.map",
+    "index.html": "/skiapp/index.html",
+    "static/css/main.24433347.chunk.css.map": "/skiapp/static/css/main.24433347.chunk.css.map",
+    "static/js/2.a4ff4b21.chunk.js.LICENSE.txt": "/skiapp/static/js/2.a4ff4b21.chunk.js.LICENSE.txt",
+    "static/media/logo.42f812ae.svg": "/skiapp/static/media/logo.42f812ae.svg",
+    "static/media/App.css": "/skiapp/static/media/wintery-sun.2690dd67.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61e493d.js",
+    "static/js/2.a4ff4b21.chunk.js",
+    "static/css/main.24433347.chunk.css",
+    "static/js/main.8230a50f.chunk.js"
+  ]
+}
