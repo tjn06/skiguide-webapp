@@ -45,8 +45,8 @@ const SkiGuide = () => {
   const [skiLengthConfirmation, setSkiLengthConfirmation ] = useState(null);
   const [recommendedOrNot, setRecommendedOrNot] = useState(false)
 
-  const [ageIsTouched, setAgeIsTouched] = useState(true)
-  const [styleIsTouched, setStyleIsTouched] = useState(true)
+  const [ageIsTouched, setAgeIsTouched] = useState()
+  const [styleIsTouched, setStyleIsTouched] = useState()
   
   const [page, setPage] = useState(1)
 
@@ -96,6 +96,7 @@ const SkiGuide = () => {
     setPage(1)
   }
 
+  console.log("datalenght" + Object.keys(userData).length)
   //Check if icons/alternatives is selected, used to disable/undisable btns prevents you from go to next step
   useEffect(() => {
     if (userData.agecase !== null) { 
